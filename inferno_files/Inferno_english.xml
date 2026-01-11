@@ -296,7 +296,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/LEAF-Writer-Workshop/main/inferno_files/Inferno_english.xml?person_annotation_20260111111001658",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-01-11T16:10:01.658Z",
-	"dcterms:modified": "2026-01-11T16:10:01.658Z",
+	"dcterms:modified": "2026-01-11T16:16:03.570Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -951,7 +951,7 @@
             <lg n="43" xml:id="lg043">
                <l n="127">I saw that Brutus who drove Tarquin forth,</l>
                <l n="128">Lucretia, Julia, Marcia, and Cornelia,</l>
-               <l n="129">And saw alone, apart, the <persName key="Saladin" ref="http://www.wikidata.org/entity/Q8581" cert="high" type="identifiable">Saladin</persName>.</l>
+               <l n="129">And saw alone, apart, the <persName key="Saladin" ref="http://www.wikidata.org/entity/Q8581" cert="high" type="identifiable" role="military" subtype="medieval" xml:id="sal01">Saladin</persName>.</l>
             </lg>
 
             <lg n="44" xml:id="lg044">
